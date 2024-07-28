@@ -2,16 +2,6 @@
 
 Project Title: Wellbee - Redesigning Digital Wellbeing for Enhanced User Experience
 
-Team Size: 4 Members
-
-Team Members: 
-Jay Rathod [Linkedin Profile],
-Srushti Kaneriya [Linkedin Profile],
-Harsh Kanani,
-Rajnandani Ambasana.
-
-Mentor: Prof. P S Kalyan Sasidhar
-
 Objective: To recreate a digital well-being app that better addresses user needs and enhances their overall experience, promoting healthier digital habits.
 
 Project Phases:
